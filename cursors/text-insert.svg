@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   inkscape:hotspot_x="5"
+   inkscape:hotspot_y="12"
+   style="fill:gray;stroke:black"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="text-insert.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#303030"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.352886"
+     inkscape:cx="29.466798"
+     inkscape:cy="22.788197"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="cursor" />
+  <defs
+     id="defs9">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect861"
+       is_visible="true"
+       lpeversion="1" />
+    <!-- Shadow -->
+  </defs>
+  <!-- 'I'  -->
+  <g
+     id="cursor"
+     style="filter:url(#shadow)">
+    <!-- Outline -->
+    <!-- Bar -->
+    <path
+       style="color:#000000;fill:#000000;stroke:#ffffff;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.5,1.6503906 A 1.85,1.85 0 0 0 3.6503906,3.5 v 17 A 1.85,1.85 0 0 0 5.5,22.349609 1.85,1.85 0 0 0 7.3496094,20.5 V 3.5 A 1.85,1.85 0 0 0 5.5,1.6503906 Z"
+       id="path859" />
+  </g>
+</svg>
